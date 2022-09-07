@@ -1,0 +1,12 @@
+lib/
+cache/*
+bin/
+include/
+.vscode
+__pycache__
+cache*
+.idea/*
+output/*
+runs/*
+*.bin
+lightning_logs/*
