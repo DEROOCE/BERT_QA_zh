@@ -4,9 +4,9 @@
 
 Description:
 
-* Using Pytorch-Lightning
+* Using [Pytorch-Lightning](https://pytorch-lightning.readthedocs.io/en/latest/)
 
-* data: [cmrc2018 dataset]\(https://github.com/ymcui/cmrc2018)
+* data: [cmrc2018 dataset](https://github.com/ymcui/cmrc2018)
 
 
 
