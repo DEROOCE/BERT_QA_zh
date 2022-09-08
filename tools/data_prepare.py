@@ -63,7 +63,7 @@ class DataPrepare():
                 if text_type == q_type:
                     # 有答案
                     answer_start = re.search(text, context).span()[0] # find where the answer text starts
-                    answers = {"text", text, "answer_start", answer_start}
+                    answers = {"text": text, "answer_start": answer_start}
                     qas.append({
                         "question": question,
                         "id": qas_id,
