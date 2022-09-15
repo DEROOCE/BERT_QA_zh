@@ -1,5 +1,6 @@
-pytorch-transformers==1.2.0
-tensorboardX==1.8
-tensorflow==1.14.0
-torch==1.0.1.post2
-tqdm==4.31.1
+datasets==2.4.0
+numpy==1.23.1
+pytorch_lightning==1.7.2
+torch==1.12.1
+tqdm==4.64.0
+transformers==4.21.2
